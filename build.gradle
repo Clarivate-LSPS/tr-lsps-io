@@ -1,4 +1,4 @@
-group 'com.thomsonreuters.lsps'
+group 'com.thomsonreuters'
 version '1.0-SNAPSHOT'
 
 apply plugin: 'groovy'
